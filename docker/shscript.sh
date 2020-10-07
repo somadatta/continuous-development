@@ -1,1 +1,1 @@
-docker build -t task1 .
+docker build -t somadatta:2.0 .
