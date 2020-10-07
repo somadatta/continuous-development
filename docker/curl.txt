@@ -1,0 +1,11 @@
+Apples-MacBook-Pro:continuous-development somadatta$ curl localhost:80
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Qwinix Nginx</title>
+</head>
+<body>
+  <h2>Hello from Qwinix container</h2>
+</body>
+</html>
